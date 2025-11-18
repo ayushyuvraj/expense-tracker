@@ -19,7 +19,7 @@ A simple, local-first expense tracker built with Python and Streamlit. The proje
 1. Clone the repository and change directory:
 
 ```powershell
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/ayushyuvraj/expense-tracker.git
 cd expense-tracker
 ```
 
